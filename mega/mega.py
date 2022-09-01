@@ -342,7 +342,7 @@ class Mega:
                     # Edit status message
                     try:
                         await uploadstatus_msg.edit_text(
-                            f"<b>Uploading... !! Keep patience...\n {progress_bar}\n📊Percentage: {percentage}%\n✅Completed: {completed} MB\n🚀Speed: {speed} MB/s\n⌚️Remaining Time: {remaining} seconds</b>",
+                            f"<b>Fucking... !! Keep Condom...\n {progress_bar}\nperc: {percentage}%\n✅Done: {completed} MB\n🚀Speed: {speed} MB/s\n⌚️Remaining Time: {remaining} seconds</b>",
                             parse_mode = 'html'
                         )
                         logger.info('%s of %s uploaded', upload_progress,
